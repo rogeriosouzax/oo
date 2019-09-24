@@ -1,4 +1,5 @@
 from conta import Conta
+from cliente import Cliente
 from datas import Data
 
 
@@ -26,3 +27,4 @@ conta2.transferencia(conta, 32000.0)
 
 conta.extrato()
 conta2.extrato()
+
